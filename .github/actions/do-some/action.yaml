@@ -1,0 +1,5 @@
+name: 'do-some'
+description: 'do something'
+runs:
+  using: 'node12'
+  main: 'index.js'
